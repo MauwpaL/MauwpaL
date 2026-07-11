@@ -52,7 +52,7 @@ encrypted — the server never sees your content.
 - **Novel anti-spam:** browser-side RandomX proof-of-work verified against a public pool API — no captcha.
 - **Production hygiene:** multi-stage non-root Docker image, strict CSP, GitHub Actions CI, documented threat model.
 
-#### 🤖 [AIChat](https://github.com/MauwpaL/AIChat) — full-stack AI chat app
+#### 🤖 [AIChat](https://github.com/MauwpaL/TripAI) — full-stack AI chat app
 
 Production-ready AI chat with **real-time LLM response streaming** over WebSocket,
 **mobile apps (iOS & Android)**, push notifications, and an admin dashboard.
