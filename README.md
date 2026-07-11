@@ -63,11 +63,4 @@ Production-ready AI chat with **real-time LLM response streaming** over WebSocke
 
 ---
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MauwpaL&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauwpaL&layout=compact&hide_border=true)
-
-</div>
-
 <p align="center"><sub>📫 <a href="mailto:mauwpawork@gmail.com">mauwpawork@gmail.com</a> · <a href="https://t.me/MauwpaL">@MauwpaL</a></sub></p>
