@@ -37,30 +37,4 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
----
-
-### Featured projects
-
-#### 🔒 [Seedmail](https://github.com/MauwpaL/seedmail.) — anonymous, anti-AI email
-
-Anonymous email where your address is **derived from a 12-word seed phrase** and
-registration is paid for by **real Monero mining in the browser**. End-to-end
-encrypted — the server never sees your content.
-
-- **Full-stack, solo:** FastAPI + SQLite backend, React 19 + TypeScript + Tailwind v4 frontend.
-- **Applied crypto:** BIP39 → domain-separated Ed25519/X25519 keys, challenge/response auth, libsodium E2E mail.
-- **Novel anti-spam:** browser-side RandomX proof-of-work verified against a public pool API — no captcha.
-- **Production hygiene:** multi-stage non-root Docker image, strict CSP, GitHub Actions CI, documented threat model.
-
-#### 🤖 [AIChat](https://github.com/MauwpaL/TripAI) — full-stack AI chat app
-
-Production-ready AI chat with **real-time LLM response streaming** over WebSocket,
-**mobile apps (iOS & Android)**, push notifications, and an admin dashboard.
-
-- Real-time chat with streaming, session management, conversation memory (auto-summarization).
-- Firebase Cloud Messaging push, background Celery export tasks, per-endpoint rate limiting.
-- Admin dashboard with data management and log viewer.
-
----
-
 <p align="center"><sub>📫 <a href="mailto:mauwpawork@gmail.com">mauwpawork@gmail.com</a> · <a href="https://t.me/MauwpaL">@MauwpaL</a></sub></p>
